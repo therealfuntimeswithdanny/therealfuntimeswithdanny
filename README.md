@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danny
 - 👀 I’m interested in Tech: Networking | Coding 
-- 🌱 I’m currently learning- HTML and CSS
+- 🌱 I’m currently learning- HTML, CSS And Javascript
 - 📫 How to reach me E-mail dannymorrisey@madebydanny.uk
 
 <!---
