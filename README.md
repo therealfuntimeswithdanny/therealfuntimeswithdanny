@@ -4,6 +4,7 @@ I'm Danny! I make apps in HTML, Javascript & Python!
 
 - 📰 [MBD News](https://news.madebydanny.uk) - Real Tech News the Real People need.
 - 🚀 [Space Shooter](https://danielmorrisey.com/projects/space-shooter) - A fun 2D pygame powered Python Game for MacOS & Windows!
+- 🏠 [Simple Dash](https://github.com/therealfuntimeswithdanny/simple-dash0 - A Simple Dashboard to store Fast Links and RSS Feed, Made using HTML and Python Flask!
 
 Social Links...
 <p align="left">
