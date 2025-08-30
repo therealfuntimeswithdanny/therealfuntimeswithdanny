@@ -2,8 +2,6 @@
 
 I'm Danny! I make apps in HTML, Javascript & Python!
 
-- 📝 [Easy Notes](https://easynotes.madebydanny.uk) - Fast, Free, Secure and Synced Notes App
-
 Social Links...
 <p align="left">
 <!-- Social Badges -->
