@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm Danny! I make apps in HTML, Javascript & Python!
+I'm Danny! I make apps in HTML, CSS, Javascript & Python!
 
 Social Links...
 <p align="left">
